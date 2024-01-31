@@ -11,12 +11,29 @@ div.board {
     right: 450px;
     display: flex;
 }
-
+div.reqem>div.rgm {
+    width: 80px;
+    height: 80px;
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: right;
+    padding-right: 8px;
+}
+div.reqem2>div.rgm {
+    width: 80px;
+    height: 80px;
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: bold;
+    padding-left: 8px;
+}
 div.ilk>p {
     color: white;
     font-weight: bold;
     font-size: 34px;
     margin: 0;
+    text-align: center;
 }
 
 div.ikinci>p {
@@ -24,6 +41,7 @@ div.ikinci>p {
     font-weight: bold;
     font-size: 34px;
     margin: 0;
+    text-align: center;
 }
 
 div.ucuncu>p {
@@ -31,6 +49,7 @@ div.ucuncu>p {
     font-weight: bold;
     font-size: 34px;
     margin: 0;
+    text-align: center;
 }
 
 div.dorduncu>p {
@@ -38,6 +57,7 @@ div.dorduncu>p {
     font-weight: bold;
     font-size: 34px;
     margin: 0;
+    text-align: center;
 }
 
 div.besinci>p {
@@ -45,6 +65,7 @@ div.besinci>p {
     font-weight: bold;
     font-size: 34px;
     margin: 0;
+    text-align: center;
 }
 
 div.altinci>p {
@@ -52,6 +73,7 @@ div.altinci>p {
     font-weight: bold;
     font-size: 34px;
     margin: 0;
+    text-align: center;
 }
 
 div.iltinci>p {
@@ -59,6 +81,7 @@ div.iltinci>p {
     font-weight: bold;
     font-size: 34px;
     margin: 0;
+    text-align: center;
 }
 
 div.yeddinci>p {
@@ -66,12 +89,14 @@ div.yeddinci>p {
     font-weight: bold;
     font-size: 34px;
     margin: 0;
+    text-align: center;
 }
 div.sonuncu>p {
     color: white;
     font-weight: bold;
     font-size: 34px;
     margin: 0;
+    text-align: center;
 }
 
 div.whitesquare {
