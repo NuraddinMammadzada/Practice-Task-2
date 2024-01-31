@@ -62,3 +62,27 @@ div.sonuncu>div.blacksquare>img {
     width: 100%;
     height: auto;
 }
+div.ikinci>div.blacksquare>img{
+    width: 100%;
+    height: auto;
+}
+div.yeddinci>div.whitesquare>img{
+    width: 100%;
+    height: auto;
+}
+div.ucuncu>div.whitesquare>img{
+    width: 100%;
+    height: auto;
+}
+div.altinci>div.blacksquare>img{
+    width: 100%;
+    height: auto;
+}
+div.dorduncu>div.blacksquare>img{
+    width: 100%;
+    height: auto;
+}
+div.besinci>div.whitesquare>img{
+    width: 100%;
+    height: auto;
+}
