@@ -1,6 +1,7 @@
 body {
     margin: 0;
     position: relative;
+    background-color: rgb(43, 42, 42);
 }
 
 div.board {
@@ -8,8 +9,69 @@ div.board {
     height: 640px;
     position: absolute;
     right: 450px;
-    border: 12px solid rgb(127, 127, 127);
     display: flex;
+}
+
+div.ilk>p {
+    color: white;
+    font-weight: bold;
+    font-size: 34px;
+    margin: 0;
+}
+
+div.ikinci>p {
+    color: white;
+    font-weight: bold;
+    font-size: 34px;
+    margin: 0;
+}
+
+div.ucuncu>p {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 34px;
+    margin: 0;
+}
+
+div.dorduncu>p {
+    color: white;
+    font-weight: bold;
+    font-size: 34px;
+    margin: 0;
+}
+
+div.besinci>p {
+    color: white;
+    font-weight: bold;
+    font-size: 34px;
+    margin: 0;
+}
+
+div.altinci>p {
+    color: white;
+    font-weight: bold;
+    font-size: 34px;
+    margin: 0;
+}
+
+div.iltinci>p {
+    color: white;
+    font-weight: bold;
+    font-size: 34px;
+    margin: 0;
+}
+
+div.yeddinci>p {
+    color: white;
+    font-weight: bold;
+    font-size: 34px;
+    margin: 0;
+}
+div.sonuncu>p {
+    color: white;
+    font-weight: bold;
+    font-size: 34px;
+    margin: 0;
 }
 
 div.whitesquare {
@@ -17,72 +79,89 @@ div.whitesquare {
     width: 80px;
     height: 80px;
 }
+
 div.blacksquare {
     background-color: rgb(139, 85, 46);
     width: 80px;
     height: 80px;
 }
+
 div.ilk>div.blacksquare>img {
     width: 100%;
     height: auto;
 }
-div.ikinci>div.whitesquare>img{
+
+div.ikinci>div.whitesquare>img {
     width: 100%;
     height: auto;
 }
-div.ucuncu>div.blacksquare>img{
+
+div.ucuncu>div.blacksquare>img {
     width: 100%;
     height: auto;
 }
-div.dorduncu>div.whitesquare>img{
+
+div.dorduncu>div.whitesquare>img {
     width: 100%;
     height: auto;
 }
-div.besinci>div.blacksquare>img{
+
+div.besinci>div.blacksquare>img {
     width: 100%;
     height: auto;
 }
-div.altinci>div.whitesquare>img{
+
+div.altinci>div.whitesquare>img {
     width: 100%;
     height: auto;
 }
-div.yeddinci>div.blacksquare>img{
+
+div.yeddinci>div.blacksquare>img {
     width: 100%;
     height: auto;
 }
-div.sonuncu>div.whitesquare>img{
+
+div.sonuncu>div.whitesquare>img {
     width: 100%;
     height: auto;
 }
+
 div.ilk>div.whitesquare>img {
     width: 100%;
     height: auto;
 }
+
 div.sonuncu>div.blacksquare>img {
     width: 100%;
     height: auto;
 }
-div.ikinci>div.blacksquare>img{
+
+div.ikinci>div.blacksquare>img {
     width: 100%;
     height: auto;
 }
-div.yeddinci>div.whitesquare>img{
+
+div.yeddinci>div.whitesquare>img {
     width: 100%;
     height: auto;
 }
-div.ucuncu>div.whitesquare>img{
+
+div.ucuncu>div.whitesquare>img {
     width: 100%;
     height: auto;
 }
-div.altinci>div.blacksquare>img{
+
+div.altinci>div.blacksquare>img {
     width: 100%;
     height: auto;
 }
-div.dorduncu>div.blacksquare>img{
+
+div.dorduncu>div.blacksquare>img {
     width: 100%;
     height: auto;
 }
-div.besinci>div.whitesquare>img{
+
+div.besinci>div.whitesquare>img {
     width: 100%;
     height: auto;
 }
