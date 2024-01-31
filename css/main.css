@@ -54,5 +54,11 @@ div.sonuncu>div.whitesquare>img{
     width: 100%;
     height: auto;
 }
-
-
+div.ilk>div.whitesquare>img {
+    width: 100%;
+    height: auto;
+}
+div.sonuncu>div.blacksquare>img {
+    width: 100%;
+    height: auto;
+}
